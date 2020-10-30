@@ -1,0 +1,28 @@
+{
+  "name": "react-native-tree-select",
+  "version": "2.0.9",
+  "description": "select tree",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suwu150/react-native-tree-select.git"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "react-native",
+    "string",
+    "Text",
+    "react"
+  ],
+  "author": "jkwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suwu150/react-native-tree-select/issues"
+  },
+  "homepage": "https://github.com/suwu150/react-native-tree-select#readme"
+}
